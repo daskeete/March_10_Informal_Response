@@ -12,7 +12,7 @@ age
 education
 wealth
 
-
+![cameroon_processed](cameroon_processed.PNG)
 
 Pivot the persons columns within your households data to a long format in order to produce a similarly specified dataset that describes all persons residing within all households.
 Using this data frame describing all persons standardize, normalize and percentize your variables and visualize each post transformed dataset as a heatmap that illustrates the heterogeneity of the combination of patterns.
