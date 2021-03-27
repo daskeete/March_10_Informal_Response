@@ -23,20 +23,20 @@ Pivot the persons columns within your households data to a long format in order 
 Using this data frame describing all persons standardize, normalize and percentize your variables and visualize each post transformed dataset as a heatmap that illustrates the heterogeneity of the combination of patterns.
 
 
-### Raw data heatmap and data snippet
+### Raw data heatmap
 
 ![raw](raw.png)
-![rawdf](rawdf.PNG)
 
 
-### Scaled data heatmap and data snippet
+
+### Scaled data heatmap
 ![scaled](scaled.png)
-![scaleddf](scaledf.PNG)
 
-### Percentized data heatmap and data snippet
+
+### Percentized data heatmap
 ![percentize](percentize.png)
-![percentizedf](percentizedf.PNG)
 
-### Normalized data heatmap and data snippet
+
+### Normalized data heatmap
 ![normalize](normalize.png)
-![normalizedf](normalizedf.PNG)
+
