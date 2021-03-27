@@ -27,7 +27,7 @@ Using this data frame describing all persons standardize, normalize and percenti
 ![rawdf](rawdf.PNG)
 
 
-![scale](scale.png)
+![scaled](scaled.png)
 ![scaleddf](scaledf.PNG)
 
 ![percentize](percentize.png)
